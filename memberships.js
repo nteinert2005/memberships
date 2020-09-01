@@ -1,5 +1,6 @@
 $(document).ready(function(){
   $('#enrollnow').click(function(){
-    console.log('script loaded and executed');
+    alert('hi');
+    console.log('script executed!');
   });
 });
